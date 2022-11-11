@@ -20,9 +20,7 @@ author: Ole Jorgensen
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Blog: "blog_posts"
+  Substack: "https://ojorgensen.substack.com"
 
 ################
 # --- Logo --- #
